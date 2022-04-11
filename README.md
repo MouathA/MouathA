@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **PHP , python**
 
+- 👀 I’m interested in **Cats**
+
 - 📫 How to reach me **Mouath#2221**
 
 <h3 align="left">Connect with me:</h3>
