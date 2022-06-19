@@ -2,10 +2,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouatha" alt="mouatha" /></a> </p>
 
-- 🌱 I’m currently learning **PHP , python**
-
-- 👀 I’m interested in **Cats**
-
 - 📫 How to reach me **Mouath#2221**
 
 <h3 align="left">Connect with me:</h3>
