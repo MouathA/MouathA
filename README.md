@@ -3,6 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouatha" alt="mouatha" /></a> </p>
 
 - 📫 How to reach me **Mouath#2221**
+- 📫 My Discord Server **https://discord.gg/KeJuzuBT7s**
 
 
 
@@ -12,4 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouatha&show_icons=true&locale=en&layout=compact" alt="mouatha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouatha&show_icons=true&locale=en" alt="mouatha" /></p>
-<p>&nbsp;<img align="center" src="https://discord.gg/KeJuzuBT7s" alt="-$301" /></p>
