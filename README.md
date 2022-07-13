@@ -12,3 +12,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouatha&show_icons=true&locale=en&layout=compact" alt="mouatha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouatha&show_icons=true&locale=en" alt="mouatha" /></p>
+<p>&nbsp;<img align="center" src="https://discord.gg/KeJuzuBT7s" alt="-$301" /></p>
